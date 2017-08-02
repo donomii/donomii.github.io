@@ -1,0 +1,3 @@
+[submodule "vid-ee-oh"]
+	path = vid-ee-oh
+	url = https://github.com/donomii/vid-ee-oh
